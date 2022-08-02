@@ -1,0 +1,27 @@
+.left-side {
+    width: 25%;
+    overflow: hidden;
+}
+
+.left-side__bg {
+    height: 100%;
+}
+
+.left-side__move {
+    animation: 5s linear 0s infinite left-side__action;
+}
+
+@keyframes left-side__action {
+    0% {
+        height: 100%;
+        margin-left: -100px;
+    }
+    10% {
+        height: 100%;
+        margin-left: -100px;
+    }
+    100% {
+        height: 100%;
+        margin-left: -470px;
+    }
+}

@@ -1,0 +1,34 @@
+.main {
+    width: 50%;
+    overflow: hidden;
+    position: relative;
+}
+.main__bg {
+    height: 100%;
+}
+
+.main__btn {
+    position: absolute;
+    left: calc( 50% - 50px);
+    top: calc( 50% - 50px);
+    width: 100px;
+    height: 60px;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 10px;
+}
+
+.main__move {
+    animation: 5s linear 0s infinite main__action;
+}
+
+@keyframes main__action {
+    0% {
+        height: 100%;
+        margin-left: 0;
+    }
+    100% {
+        height: 100%;
+        margin-left: -300px;
+    }
+}

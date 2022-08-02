@@ -1,0 +1,24 @@
+.right-side {
+    height: 100%;
+    width: 25%;
+    overflow: hidden;
+}
+
+.right-side__bg {
+    height: 100%;
+}
+
+.right-side__move {
+    animation: 5s linear 0s infinite right-side__action;
+}
+
+@keyframes right-side__action {
+    0% {
+        height: 100%;
+        margin-left: 0;
+    }
+    90% {
+        height: 100%;
+        margin-left: -300px;
+    }
+}
