@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/babaievfe2022/static/css/main.a11d0ffc.css",
+    "main.js": "/babaievfe2022/static/js/main.78101fbc.js",
+    "static/media/planets.jpg": "/babaievfe2022/static/media/planets.5edf5ad32592454b0b8a.jpg",
+    "static/media/dyno.jpg": "/babaievfe2022/static/media/dyno.cccaf150e6833b009261.jpg",
+    "static/media/cats.jpg": "/babaievfe2022/static/media/cats.e2383e9ad36ee59ed196.jpg",
+    "static/media/dogs.jpg": "/babaievfe2022/static/media/dogs.5558919496a6ec6f01b5.jpg",
+    "static/media/chubaka.jpg": "/babaievfe2022/static/media/chubaka.082a04fa94ae24c63e95.jpg",
+    "index.html": "/babaievfe2022/index.html",
+    "main.a11d0ffc.css.map": "/babaievfe2022/static/css/main.a11d0ffc.css.map",
+    "main.78101fbc.js.map": "/babaievfe2022/static/js/main.78101fbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a11d0ffc.css",
+    "static/js/main.78101fbc.js"
+  ]
+}
